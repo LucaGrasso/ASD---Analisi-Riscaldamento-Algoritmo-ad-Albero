@@ -27,4 +27,10 @@ Il programma deve inoltre prevedere una modalit`a che implementa le stesse funzi
 Spero il programma possa aiutare studenti per la compressione e gestione degli algoritmi ad albero.
 Sono disponibile per domande o chiarimenti, contattatemi pure in email o su linkedin.
 
+----------------
+Per una donazione, se il mio lavoro è stato utile un caffe in segno di amicizia, altrimenti anche un messaggio di ringraziamento.
+
+cup of coffe
+https://www.paypal.com/donate/?hosted_button_id=A3AQE2CXQ79CN
+
 Luca
